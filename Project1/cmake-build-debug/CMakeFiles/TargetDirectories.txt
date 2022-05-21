@@ -1,3 +1,0 @@
-/home/jiangfan/Desktop/Inclass-projects-cpp/Project1/cmake-build-debug/CMakeFiles/Project1.dir
-/home/jiangfan/Desktop/Inclass-projects-cpp/Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jiangfan/Desktop/Inclass-projects-cpp/Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
